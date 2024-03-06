@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Mi primera publicación en el blog.'
-pubDate: 2024-19-02
-description: 'Este es la primera publicación de mi nuevo blog Astro.'
+title: 'Mi primera entrada del blog'
 author: 'Alumno de Astro.'
+pubDate: 2024-01-15
+description: 'Este es la primera publicación de mi nuevo blog Astro.'
 image:
     url: 'https://docs.astro.build/assets/full-logo-dark.png'
     alt: 'El logotipo completo de Astro.'
-tags: ["astro", "bloguear", "aprender en público"]
+tags: ['astro', 'bloguear', 'aprender en público']
 ---
 
 ¡Bienvenido a mi _nuevo blog_ sobre el aprendizaje de Astro! Aquí, voy a compartir mi viaje de aprendizaje a medida que construyo un nuevo sitio web.

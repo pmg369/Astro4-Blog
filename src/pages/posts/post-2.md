@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Mi segunda publicación en el blog.'
-pubDate: 2022-07-08
+title: 'Mi segunda entrada del blog'
 author: 'Alumno de Astro.'
+pubDate: 2024-01-20
 description: 'Después de aprender un poco de Astro, ¡no podía parar!'
 image:
     url: 'https://docs.astro.build/assets/arc.webp'
